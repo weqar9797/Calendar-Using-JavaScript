@@ -1,2 +1,2 @@
 # CalendarI-Using-JavaScript
-Simple Calendar in JavaScript
+Drawing a Calendar using Html, css and javascript
